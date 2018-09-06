@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/linearData"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/main_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="id"
+        android:textSize="18sp"
+        android:textColor="@color/colorBlack"
+        android:visibility="gone"
+        />
+
+
+    <TextView
+        android:layout_marginTop="10px"
+        android:id="@+id/main_rating"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="name"
+        android:textColor="@color/colorBlack"
+        />
+
+    <TextView
+        android:layout_marginTop="10px"
+        android:id="@+id/main_year"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="username"
+        android:textColor="@color/colorBlack"
+        />
+
+
+    <TextView
+        android:layout_marginTop="10px"
+        android:id="@+id/main_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="email"
+        android:textColor="@color/colorBlack"
+        />
+
+    <TextView
+        android:visibility="gone"
+        android:layout_marginTop="10px"
+        android:id="@+id/main_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="address"
+        android:textColor="@color/colorBlack"
+        />
+
+    <TextView
+        android:visibility="gone"
+        android:layout_marginLeft="15dp"
+        android:id="@+id/main_street"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="street"
+        android:textColor="@color/colorBlack"
+        />
+
+    <TextView
+        android:visibility="gone"
+        android:layout_marginLeft="15dp"
+        android:id="@+id/main_suite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="suite"
+        android:textColor="@color/colorBlack"
+        />
+    <TextView
+        android:visibility="gone"
+        android:layout_marginLeft="15dp"
+        android:id="@+id/main_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="city"
+        android:textColor="@color/colorBlack"
+        />
+    <TextView
+        android:visibility="gone"
+        android:layout_marginLeft="15dp"
+        android:id="@+id/main_zipcode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="zipcode"
+        android:textColor="@color/colorBlack"
+        />
+    <TextView
+        android:visibility="gone"
+        android:layout_marginLeft="15dp"
+        android:id="@+id/main_geo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="geo"
+        android:textColor="@color/colorBlack"
+        />
+
+    <TextView
+        android:visibility="gone"
+        android:layout_marginLeft="30dp"
+        android:id="@+id/main_lat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="lat"
+        android:textColor="@color/colorBlack"
+        />
+    <TextView
+        android:visibility="gone"
+        android:layout_marginLeft="30dp"
+        android:id="@+id/main_lng"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="lng"
+        android:textColor="@color/colorBlack"
+        />
+
+    <TextView
+        android:layout_marginTop="10px"
+        android:id="@+id/main_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="phone"
+        android:textColor="@color/colorBlack"
+        />
+
+    <TextView
+        android:visibility="gone"
+        android:layout_marginTop="10px"
+        android:id="@+id/main_website"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="website"
+        android:textColor="@color/colorBlack"
+        />
+
+    <TextView
+        android:visibility="gone"
+        android:layout_marginTop="10px"
+        android:id="@+id/main_company"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="company"
+        android:textColor="@color/colorBlack"
+        />
+
+    <TextView
+        android:visibility="gone"
+        android:layout_marginLeft="15px"
+        android:id="@+id/main_company_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="company_name"
+        android:textColor="@color/colorBlack"
+        />
+
+    <TextView
+        android:visibility="gone"
+        android:layout_marginLeft="15px"
+        android:id="@+id/main_catchPhrase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="catchPhrase"
+        android:textColor="@color/colorBlack"
+        />
+    <TextView
+        android:visibility="gone"
+        android:layout_marginLeft="15px"
+        android:id="@+id/main_bs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="bs"
+        android:textColor="@color/colorBlack"
+        />
+
+
+
+</LinearLayout>
